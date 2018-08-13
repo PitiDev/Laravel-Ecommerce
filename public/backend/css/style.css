@@ -1,0 +1,6 @@
+
+element.style {
+    z-index: 3;
+    width: 260px !important;;
+    display: none;
+}

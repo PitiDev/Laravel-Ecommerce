@@ -1,0 +1,55 @@
+/* Enter Your Custom CSS Here */
+
+
+
+@font-face {
+
+    font-family: 'Lao Sans Pro';
+
+    font-style: normal;
+
+    font-weight: 400;
+
+    src: url('fonts/LaoSansPro/LaoSansPro-Regular.eot');
+
+    src: url('fonts/LaoSansPro/LaoSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+
+        url('fonts/LaoSansPro/LaoSansPro-Regular.woff2') format('woff2'),
+
+        url('fonts/LaoSansPro/LaoSansPro-Regular.woff') format('woff'),
+
+        url('fonts/LaoSansPro/LaoSansPro-Regular.ttf') format('truetype')
+
+        ;
+
+}
+
+
+
+body {
+
+    font-family:Lao Sans Pro !important;
+
+}
+
+
+
+html, body, div, span, applet, object, iframe, p, blockquote, pre,
+
+a, abbr, acronym, address, big, cite,input,button,
+
+del, dfn, em, font, ins, kbd, q, s, samp,
+
+small, strike, strong, sub, sup, tt, var,
+
+dl, dt, dd, ol, ul, li,
+
+fieldset, form, label, legend,
+
+table, caption, tbody, tfoot, thead, tr, th, td,h1, h2, h3, h4, h5, h6, nav,menu, button,price,_heading,fbl-button,woocommerce,woocommerce-breadcrumb,nav,menu,button,btn,price, _heading, blockquote, label, legend,shop_table,product_meta,wc-tabs{
+
+    font-family:Lao Sans Pro !important;
+    font-weight: bold !important;
+
+}
+
